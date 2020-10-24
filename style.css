@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.spacer{
+
+    margin: 3rem;
+}
+
+h1{
+    text-align: center;
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
